@@ -35,15 +35,17 @@ L.control.layers(baseMaps).addTo(map);
 let torontoHoods = "https://raw.githubusercontent.com/vsanand27/Mapping_Earthquakes/master/torontoNeighborhoods.json";
 
 // Create a style for the lines.
-// let myStyle = {
-// 	color: "#ffffa1",
-// 	weight: 2
-// }
+let myStyle = {
+	color: "blue",
+	weight: 2,
+	fillColor: '#ffffa1',
+}
 // Grabbing our GeoJSON data.
 
 d3.json(torontoHoods).then(function(data) {
 	console.log(data);
  L.geoJson(data, {
+	 style: myStyle,
 	onEachFeature: function(Feature, layer){
 	console.log(layer);
 	layer.bindPopup("<h2>" +"Area Name: " + Feature.properties.AREA_NAME + "</h2>  <hr> <h3>" +"Area code: "+ Feature.properties.AREA_S_CD + "</h3>");
