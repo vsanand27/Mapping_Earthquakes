@@ -21,7 +21,7 @@ Source Files
 
 HTML Source File: https://github.com/vsanand27/Mapping_Earthquakes/blob/master/Earthquake_Challenge/index.html
 
-JavaScript: 
+Logic for Map (JavaScript): https://github.com/vsanand27/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/js/logicStep6.js
 
 
 
