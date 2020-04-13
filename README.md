@@ -23,7 +23,7 @@ Source Files
 
 Street Map View
 
-![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+![alt text](https://github.com/vsanand27/Mapping_Earthquakes/blob/master/Map%20-%20Street%20View.PNG)
 
 # Satellite Map View
 
