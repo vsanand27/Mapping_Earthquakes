@@ -19,5 +19,17 @@ Languages and Tools:
 •	GeoJSON
 Source Files
 
-PrintScreen
+# PrintScreen
 
+Street Map View
+
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+
+# Satellite Map View
+
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
+
+
+# Light Map View
+
+![alt text](https://github.com/vsanand27/UFOs/blob/master/static/images/Truth_is_out_there.PNG)
