@@ -32,4 +32,4 @@ Street Map View - Default Layout when website loads
 
 # Light Map View
 
-![alt text](https://github.com/vsanand27/Mapping_Earthquakes/blob/master/Map%20-%20Satellite%20View.PNG)
+![alt text](https://github.com/vsanand27/Mapping_Earthquakes/blob/master/Map%20-%20Light%20View.PNG)
