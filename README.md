@@ -1,5 +1,5 @@
 
-# Visualize earthquakes and tectonic plates lines around the world on map utilizing mLeaflet, GeoJson, D3, and Javascript
+# Visualize earthquakes and tectonic plates lines around the world on map utilizing Leaflet, GeoJson, D3, and Javascript
 
 # Purpose
 Created a map using Leaflet that plots all of the earthquakes in the last 7 days from the United States Geological Survey GeoJSON Feed page.  Illustrated the relationship between tectonic plates and seismic activity.
