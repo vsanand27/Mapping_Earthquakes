@@ -155,8 +155,8 @@ earthquakes.addTo(map);
 
 
 
-let style1 = {
-	color:'blue',
+let styleOne = {
+	color: "#f05e1b",
 	weight: 1
 };
 
@@ -165,9 +165,9 @@ d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/
  
 // Creating a GeoJSON layer with the retrieved data.
 L.geoJson(data, {
+	style2: styleOne,
 	onEachFeature: function(Feature, layer){
 	console.log(layer);
-	style2: style1
 	}
 
 }).addTo(tectonicplates);
